@@ -11,7 +11,7 @@ function NavBar() {
         <div className="nav-container">
           <div className="nav-logo">
           
-                Restoran Menüsü
+               Dombili Kebap
            
             <img src= "restaurant.png" width="30" height="30" alt="logo"/>
           </div>
