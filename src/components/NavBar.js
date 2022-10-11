@@ -10,10 +10,13 @@ function NavBar() {
       <nav className="navbar">
         <div className="nav-container">
           <div className="nav-logo">
-          
+            <NavLink to="/" className="nav-logo">
+              
                Dombili Kebap
-           
+            
             <img src= "restaurant.png" width="30" height="30" alt="logo"/>
+
+            </NavLink>
           </div>
           
           <ul className={click ? "nav-menu active" : "nav-menu"}>

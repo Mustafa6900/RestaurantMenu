@@ -18,8 +18,7 @@ function App() {
 
         <div className="pages">
         <div className="restaurantName">  
-        <br />
-        <br />
+        
         </div>
         
           <Switch>

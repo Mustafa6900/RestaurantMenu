@@ -4,8 +4,10 @@ import Menuİtem from "../SubPages/İtemJsonFolder/Menuİtem.json";
 export const Home = () => {
  
   return (
-    
     <nav className='Homeİtem'>
+      <br />
+      <h2>Menü</h2>
+      <br />
              <ul className='HomeİtemList'>
               {Menuİtem.map((val)=>{
                 return(
