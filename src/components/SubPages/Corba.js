@@ -6,7 +6,9 @@ export const Corba = () => {
   return (
     
     <nav className='İtem'>
+      <br />
        <h2>Çorba Menüsü</h2>
+       <br />
              <ul className='İtemList'>
               {Corbaİtem.map((val)=>{
                 return(

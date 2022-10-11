@@ -6,7 +6,9 @@ export const SuluYemek = () => {
   return (
     
     <nav className='İtem'>
+      <br />
       <h2>Sulu Yemek Menüsü</h2>
+      <br />
              <ul className='İtemList'>
               {SuluYemekİtem.map((val)=>{
                 return(

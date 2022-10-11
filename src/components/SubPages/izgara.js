@@ -8,7 +8,9 @@ export const izgara = () => {
   return (
     
     <nav className='İtem'>
+      <br />
       <h2>Izgara Menüsü</h2>
+      <br />
              <ul className='İtemList'>
               {izgaraİtem.map((val)=>{
                 return(

@@ -8,7 +8,9 @@ export const Balik = () => {
   return (
     
     <nav className='İtem'>
+      <br />
       <h2>Balık Menüsü</h2>
+      <br />
              <ul className='İtemList'>
               {Balikİtem.map((val)=>{
                 return(
