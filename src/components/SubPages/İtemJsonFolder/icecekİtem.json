@@ -1,34 +1,34 @@
 [
     {
         "title": "Kutu Kola",
-        "image": "./İcecekmenu/KutuKola.jpg"
+        "image": "./ccecekmenu/KutuKola.jpg"
     },
     {
         "title": "Kutu Fanta",
-        "image": "./İcecekmenu/FantaKutu.jpg"
+        "image": "./ccecekmenu/FantaKutu.jpg"
     },
     {
         "title": "Şişe Kola",
-        "image": "./İcecekmenu/SiseKola.jpeg"
+        "image": "./ccecekmenu/SiseKola.jpeg"
     },
     {
         "title": "Şişe Fanta",
-        "image": "./İcecekmenu/SiseFanta.jpeg"
+        "image": "./ccecekmenu/SiseFanta.jpeg"
     },
     {
         "title": "Ayran",
-        "image": "./İcecekmenu/Ayran.jpg"
+        "image": "./ccecekmenu/Ayran.jpg"
     },
     {
         "title": "Şalgam",
-        "image": "./İcecekmenu/Salgam.jpg"
+        "image": "./ccecekmenu/Salgam.jpg"
     },
     {
         "title": "Maden Suyu",
-        "image": "./İcecekmenu/Soda.jpg"
+        "image": "./ccecekmenu/Soda.jpg"
     },
     {
         "title": "Su",
-        "image": "./İcecekmenu/Su.jpg"
+        "image": "./ccecekmenu/Su.jpg"
     }
 ]
