@@ -1,0 +1,34 @@
+[
+    {
+        "title": "Mercimek  ",
+        "image": "./Corbamenu/Mercimek.jpg"
+    },
+    {
+        "title": "Ezogelin  ",
+        "image": "./Corbamenu/Ezogelin.jpg"
+    },
+    {
+        "title": "Kelle Paça  ",
+        "image": "./Corbamenu/KellePaca.jpg"
+    },
+    {
+        "title": "Doduk Paça  ",
+        "image": "./Corbamenu/DodukPaca.jpg"
+    },
+    {
+        "title": "Karışık Paça  ",
+        "image": "./Corbamenu/KarisikPaca.jpg"
+    },
+    {
+        "title": "İşkembe  ",
+        "image": "./Corbamenu/İskembe.jpg"
+    },
+    {
+        "title": "Sebzeli  ",
+        "image": "./Corbamenu/Sebzeli.jpg"
+    },
+    {
+        "title": "TavukSuyu  ",
+        "image": "./Corbamenu/TavukSuyu.jpg"
+    }
+]

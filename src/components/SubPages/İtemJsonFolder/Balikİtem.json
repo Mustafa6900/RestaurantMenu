@@ -1,0 +1,28 @@
+[
+    {
+        "title": "Hamsi",
+        "image": "./Balikmenu/Hamsi.jpg"
+    },
+    {
+        "title": "İstavrit",
+        "image": "./Balikmenu/İstavrit.jpg"
+    },
+    {
+        "title": "Alabalık",
+        "image": "./Balikmenu/Alabalik.jpg"
+
+    },
+    {
+        "title": "Çupra",
+        "image": "./Balikmenu/Cupra.jpg"
+    },
+    {
+        "title": "Levrek",
+        "image": "./Balikmenu/Levrek.jpg"
+    },
+    
+    {
+        "title": "Somon",
+        "image": "./Balikmenu/Somon.jpg"
+    }
+]

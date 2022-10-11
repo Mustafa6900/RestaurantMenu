@@ -1,25 +1,47 @@
-import React from 'react';
-import logo from './logo.svg';
-import './App.css';
-
+import "./App.css";
+import NavBar from "./components/NavBar";
+import { BrowserRouter as Router, Switch, Route } from "react-router-dom";
+import { Home } from "./components/Pages/Home";
+import { About } from "./components/Pages/About";
+import { Contact } from "./components/Pages/Contact";
+import { Balik } from "./components/SubPages/Balik";
+import { izgara } from "./components/SubPages/izgara";
+import { Corba } from "./components/SubPages/Corba";
+import { icecek } from "./components/SubPages/icecek";
+import { SuluYemek } from "./components/SubPages/SuluYemek";
+import { Tatli } from "./components/SubPages/Tatli";
 function App() {
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
-    </div>
+    <>
+      <Router>
+        <NavBar />
+
+        <div className="pages">
+        <div className="restaurantName">
+          <h1>Dombili Kebap</h1>
+          
+        </div>
+        
+          <Switch>
+            <Route exact path="/" component={Home} />
+            <Route path="/about" component={About} />
+            <Route path="/contact" component={Contact} />
+            <Route path="/balik" component={Balik} />
+            <Route path="/corba" component={Corba} />
+            <Route path="/İzgara" component={izgara} />
+            <Route path="/icecek" component={icecek} />
+            <Route path="/suluyemek" component={SuluYemek} />
+            <Route path="/tatli" component={Tatli} />
+          </Switch>
+        </div>
+      </Router>
+      <div className="slogan">
+     
+      <h3>Bizi tercih ettiğiniz için teşekkür ederiz</h3>
+      <img src={'./logo.png'} alt="logo"/> 
+      </div>
+     
+    </>
   );
 }
 

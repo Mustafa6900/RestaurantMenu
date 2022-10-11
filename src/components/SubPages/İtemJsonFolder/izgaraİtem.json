@@ -1,0 +1,42 @@
+[
+    {
+        "title": "Köfte",
+        "image": "./izgaramenu/Kofte.jpg"
+    },
+    {
+        "title": "Tavuk ",
+        "image": "./izgaramenu/TavukKusbasi.jpg"
+    },
+    {
+        "title": "Ciğer",
+        "image": "./izgaramenu/Ciger.jpg"
+    },
+    {
+        "title": "Yürek",
+        "image": "./izgaramenu/Yurek.jpg"
+    },
+    {
+        "title": "Böbrek",
+        "image": "./izgaramenu/Bobrek.jpg"
+    },
+    {
+        "title": "Et Kuşbaşı",
+        "image": "./izgaramenu/EtKusbasi.jpg"
+    },
+    {
+        "title": "Saç Kavurma",
+        "image": "./izgaramenu/SacKavurma.jpg"
+    },
+    {
+        "title": "Et Biftek",
+        "image": "./izgaramenu/Biftek.jpg"
+    },
+    {
+        "title": "Tavuk Pirzola",
+        "image": "./izgaramenu/TavukPirzola.jpg"
+    },
+    {
+        "title": "Karışık",
+        "image": "./izgaramenu/Karısık.jpg"
+    }
+]

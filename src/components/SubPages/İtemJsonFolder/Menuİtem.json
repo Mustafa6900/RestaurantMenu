@@ -1,0 +1,46 @@
+[
+    {
+      
+        
+        "title": "Çorba",
+        "image": "./Anamenu/corba.jpg",
+        "routerLink": "/Corba"
+      },
+      {
+      
+        
+        "title": "Izgara ",
+        "image": "./Anamenu/ızgara.jpg",
+        "routerLink": "/İzgara"
+      },
+
+      {
+        
+        
+        "title": "Sulu Yemek ",
+        "image": "./Anamenu/SuluYemek.jpg",
+        "routerLink": "/SuluYemek"
+      },
+      {
+        
+     
+        "title": "Balık ",
+        "image": "./Anamenu/balık.jpg",
+        "routerLink": "/Balik"
+      },
+      {
+        
+     
+        "title": "Tatlı ",
+        "image": "./Anamenu/tatlı.jpg",
+        "routerLink": "/Tatli"
+      },
+      {
+      
+        
+        "title": "İçecek ",
+        "image": "./Anamenu/icecek.jpg",
+        "routerLink": "/Icecek"
+      }
+      
+]

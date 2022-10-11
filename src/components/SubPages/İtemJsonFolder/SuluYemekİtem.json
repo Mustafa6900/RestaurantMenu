@@ -1,0 +1,26 @@
+[
+    {
+        "title": "Bayburt Tava",
+        "image": "./SuluYemekmenu/BayburtTava.jpg"
+    },
+    {
+        "title": "Kuru Fasulye",
+        "image": "./SuluYemekmenu/KuruFasulye.jpg"
+    },
+    {
+        "title": "Et Haşlama",
+        "image": "./SuluYemekmenu/EtHaslama.jpg"
+    },
+    {
+        "title": "Et Kavurma",
+        "image": "./SuluYemekmenu/EtKavurma.jpg"
+    },
+    {
+        "title": "Pirinç Pilavı",
+        "image": "./SuluYemekmenu/PirincPilavi.jpg"
+    },
+    {
+        "title": "Bulgur Pilavı",
+        "image": "./SuluYemekmenu/BulgurPilavi.jpg"
+    }
+]
