@@ -17,8 +17,9 @@ function App() {
         <NavBar />
 
         <div className="pages">
-        <div className="restaurantName">
-          
+        <div className="restaurantName">  
+        <br />
+        <br />
         </div>
         
           <Switch>
@@ -35,8 +36,9 @@ function App() {
         </div>
       </Router>
       <div className="slogan">
-     
-      <h3>Bizi tercih ettiğiniz için teşekkür ederiz</h3>
+      <br />
+      <h5>Bizi tercih ettiğiniz için teşekkür ederiz</h5>
+      <br />
       <img src={'./logo.png'} alt="logo"/> 
       </div>
      
