@@ -18,7 +18,6 @@ function App() {
 
         <div className="pages">
         <div className="restaurantName">
-          <h3>Dombili Kebap</h3>
           
         </div>
         
