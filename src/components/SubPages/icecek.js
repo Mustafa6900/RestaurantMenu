@@ -18,7 +18,7 @@ export const icecek = () => {
                   className="row"
                  >
                    <Popup className = "popup" trigger={<img src={process.env.origin = val.image} alt="items" />} position="center">
-                        <div className = "popupalt"> <img src={process.env.origin = val.image} alt="items" /> <h2> {val.title};<br /></h2 ><h5> {val.fiyat}<br /></h5 ><br /></div>
+                        <div className = "popupalt"> <img src={process.env.origin = val.image} alt="items" /> <h2> {val.title}<br /></h2 ><h5> {val.fiyat}<br /></h5 ><br /></div>
                     </Popup>
                    <div>{val.title}</div>
                   </li>
