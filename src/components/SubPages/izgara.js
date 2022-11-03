@@ -18,7 +18,7 @@ export const izgara = () => {
                   className="row"
                  >
                     <Popup className = "popup" trigger={<img src={process.env.origin = val.image} alt="items" />} position="center">
-                        <div className = "popupalt"> <img src={process.env.origin = val.image} alt="items" /> <h2> {val.title};<br /></h2 > Salata ve tercih ettiğiniz pilav ile servis edilmektedir.</div>
+                        <div className = "popupalt"> <img src={process.env.origin = val.image} alt="items" /> <h2> {val.title}<br /></h2 ><h5> {val.fiyat}<br /></h5 ><br />  Salata ve tercih ettiğiniz pilav ile servis edilmektedir.</div>
                     </Popup>
                    <div>{val.title}</div>
                   </li>
