@@ -18,7 +18,7 @@ export const SuluYemek = () => {
                   className="row"
                  >
                     <Popup className = "popup" trigger={<img src={process.env.origin = val.image} alt="items" />} position="center">
-                        <div className = "popupalt"> <img src={process.env.origin = val.image} alt="items" /> <h2> {val.title}<br /></h2 ><h5> {val.fiyat}<br /></h5 ><br /> (Ürünlerimiz günlük olduğu için tükenme olasığı bulunmaktadır. Lütfen ürün durumunu garsona sorunuz.)</div>
+                        <div className = "popupalt"> <img src={process.env.origin = val.image} alt="items" /> <h2> {val.title}<br /></h2 ><br /><h5> {val.fiyat}<br /></h5 ><br /> (Ürünlerimiz günlük olduğu için tükenme olasığı bulunmaktadır. Lütfen ürün durumunu garsona sorunuz.)</div>
                     </Popup>
                    <div>{val.title}</div>
                   </li>

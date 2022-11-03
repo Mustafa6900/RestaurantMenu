@@ -20,7 +20,7 @@ export const Balik = () => {
                  >
                      
                     <Popup className = "popup" trigger={<img src={process.env.origin = val.image} alt="items" />} position="center">
-                        <div className = "popupalt"> <img src={process.env.origin = val.image} alt="items" /> <h2> {val.title}<br /></h2 ><h5> {val.fiyat}<br /></h5 ><br /> Salata ve turşu ile servis edilmektedir. <br /> <br /> (Ürünlerimiz günlük olduğu için tükenme olasığı bulunmaktadır. Lütfen ürün durumunu garsona sorunuz.)</div>
+                        <div className = "popupalt"> <img src={process.env.origin = val.image} alt="items" /> <h2> {val.title}<br /></h2 ><br /><h5> {val.fiyat}<br /></h5 ><br /> Salata ve turşu ile servis edilmektedir. <br /> <br /> (Ürünlerimiz günlük olduğu için tükenme olasığı bulunmaktadır. Lütfen ürün durumunu garsona sorunuz.)</div>
                     </Popup>
                     
                   <div>{val.title}</div>
