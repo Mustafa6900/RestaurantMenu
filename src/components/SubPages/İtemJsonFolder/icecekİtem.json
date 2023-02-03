@@ -2,17 +2,17 @@
     {
         "title": "Kutu Kola",
         "image": "./ccecekmenu/KutuKola.jpg",
-        "fiyat": "200 ml 10 TL"
+        "fiyat": "200 ml 15 TL"
     },
     {
         "title": "Fanta",
         "image": "./ccecekmenu/FantaKutu.jpg",
-        "fiyat": "200 ml 10 TL"
+        "fiyat": "200 ml 15 TL"
     },
     {
         "title": "Meyve Suyu",
         "image": "./ccecekmenu/MeyveSuyu.jpg",
-        "fiyat": "10 TL"
+        "fiyat": "15 TL"
     },
     {
         "title": "Kola",

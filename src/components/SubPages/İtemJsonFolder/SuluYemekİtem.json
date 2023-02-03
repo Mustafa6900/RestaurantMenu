@@ -2,17 +2,17 @@
     {
         "title": "Bayburt Tava",
         "image": "./SuluYemekmenu/BayburtTava.jpg",
-        "fiyat": "1 Porsiyon 40 TL"
+        "fiyat": "1 Porsiyon 50 TL"
     },
     {
         "title": "Kuru Fasulye",
         "image": "./SuluYemekmenu/KuruFasulye.jpg",
-        "fiyat": "1 Porsiyon 20 TL"
+        "fiyat": "1 Porsiyon 30 TL"
     },
     {
         "title": "Et Haşlama",
         "image": "./SuluYemekmenu/EtHaslama.jpg",
-        "fiyat": "1 Porsiyon 50 TL"
+        "fiyat": "1 Porsiyon 60 TL"
     },
     {
         "title": "Et Kavurma",
@@ -22,11 +22,11 @@
     {
         "title": "Pirinç Pilavı",
         "image": "./SuluYemekmenu/PirincPilavi.jpg",
-        "fiyat": "1 Porsiyon 10 TL"
+        "fiyat": "1 Porsiyon 15 TL"
     },
     {
         "title": "Bulgur Pilavı",
         "image": "./SuluYemekmenu/BulgurPilavi.jpg",
-        "fiyat": "1 Porsiyon 10 TL"
+        "fiyat": "1 Porsiyon 15 TL"
     }
 ]
