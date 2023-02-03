@@ -12,32 +12,32 @@
     {
         "title": "Alabalık",
         "image": "./Balikmenu/Alabalik.jpg",
-        "fiyat" : "1 Porsiyon 70 TL - 1.5 Porsiyon 90 TL"
+        "fiyat" : "1 Porsiyon 70 TL - 1.5 Porsiyon 105 TL"
     },
     {
         "title": "Çinekop",
         "image": "./Balikmenu/Cinekop.jpg",
-        "fiyat" : "1 Porsiyon 70 TL - 1.5 Porsiyon 90 TL"
+        "fiyat" : "1 Porsiyon 70 TL - 1.5 Porsiyon 105 TL"
     },
     {
         "title": "Palamut",
         "image": "./Balikmenu/Palamut.jpg",
-        "fiyat" : "1 Porsiyon 70 TL - 1.5 Porsiyon 90 TL"
+        "fiyat" : "1 Porsiyon 70 TL - 1.5 Porsiyon 105 TL"
     },
     {
         "title": "Çupra",
         "image": "./Balikmenu/Cupra.jpg",
-        "fiyat" : "1 Porsiyon 100 TL - 1.5 Porsiyon 120 TL"
+        "fiyat" : "1 Porsiyon 100 TL - 1.5 Porsiyon 150 TL"
     },
     {
         "title": "Levrek",
         "image": "./Balikmenu/Levrek.jpg",
-        "fiyat" : "1 Porsiyon 100 TL - 1.5 Porsiyon 120 TL"
+        "fiyat" : "1 Porsiyon 100 TL - 1.5 Porsiyon 150 TL"
     },
     
     {
         "title": "Somon",
         "image": "./Balikmenu/Somon.jpg",
-        "fiyat" : "1 Porsiyon 100 TL - 1.5 Porsiyon 120 TL"
+        "fiyat" : "1 Porsiyon 100 TL - 1.5 Porsiyon 150 TL"
     }
 ]
