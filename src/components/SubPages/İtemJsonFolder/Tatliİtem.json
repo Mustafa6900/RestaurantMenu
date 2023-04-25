@@ -2,16 +2,16 @@
     {
         "title": "Kadayıf",
         "image": "./Tatlimenu/Kadayif.jpg",
-        "fiyat": "1 Porsiyon 15 TL"
+        "fiyat": "1 Porsiyon 25 TL"
     },
     {
         "title": "Sütlaç",
         "image": "./Tatlimenu/Sütlac.jpg",
-        "fiyat": "1 Porsiyon 15 TL"
+        "fiyat": "1 Porsiyon 25 TL"
     },
     {
         "title": "Krema",
         "image": "./Tatlimenu/Krema.jpg",
-        "fiyat": "1 Porsiyon 15 TL"
+        "fiyat": "1 Porsiyon 25 TL"
     }
 ]
