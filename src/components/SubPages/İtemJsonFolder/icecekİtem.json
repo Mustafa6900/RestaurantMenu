@@ -2,27 +2,27 @@
     {
         "title": "Kutu Kola",
         "image": "./ccecekmenu/KutuKola.jpg",
-        "fiyat": "200 ml 17.5 TL"
+        "fiyat": "200 ml 20 TL"
     },
     {
         "title": "Fanta",
         "image": "./ccecekmenu/FantaKutu.jpg",
-        "fiyat": "200 ml 17.5 TL"
+        "fiyat": "200 ml 20 TL"
     },
     {
         "title": "Meyve Suyu",
         "image": "./ccecekmenu/MeyveSuyu.jpg",
-        "fiyat": "17.5 TL"
+        "fiyat": "20 TL"
     },
     {
         "title": "Kola",
         "image": "./ccecekmenu/SiseKola.jpeg",
-        "fiyat": "200 ml 12.5 TL"
+        "fiyat": "200 ml 15 TL"
     },
     {
         "title": "Fanta",
         "image": "./ccecekmenu/SiseFanta.jpeg",
-        "fiyat": "200 ml 12.5 TL"
+        "fiyat": "200 ml 15 TL"
     },
     {
         "title": "Ayran",
@@ -32,17 +32,17 @@
     {
         "title": "Şalgam",
         "image": "./ccecekmenu/Salgam.jpg",
-        "fiyat": "12.5 TL"
+        "fiyat": "15 TL"
     },
     
     {
         "title": "Maden Suyu",
         "image": "./ccecekmenu/Soda.jpg",
-        "fiyat": "200 ml 7.5 TL"
+        "fiyat": "200 ml 10 TL"
     },
     {
         "title": "Su",
         "image": "./ccecekmenu/Su.jpg",
-        "fiyat": "2.5 TL"
+        "fiyat": "3 TL"
     }
 ]
