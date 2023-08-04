@@ -2,51 +2,51 @@
     {
         "title": "Köfte",
         "image": "./izgaramenu/Kofte.jpg",
-        "fiyat": "1 Porsiyon 55 TL - 1.5 Porsiyon 80 TL"
+        "fiyat": "1 Porsiyon 60 TL - 1.5 Porsiyon 90 TL"
     },
     {
         "title": "Tavuk ",
         "image": "./izgaramenu/TavukKusbasi.jpg",
-        "fiyat": "1 Porsiyon 55 TL - 1.5 Porsiyon 80 TL"
+        "fiyat": "1 Porsiyon 60 TL - 1.5 Porsiyon 90 TL"
     },
     {
         "title": "Ciğer",
         "image": "./izgaramenu/Ciger.jpg",
-        "fiyat": "1 Porsiyon 55 TL - 1.5 Porsiyon 80 TL"
+        "fiyat": "1 Porsiyon 60 TL - 1.5 Porsiyon 90 TL"
     },
     {
         "title": "Yürek",
         "image": "./izgaramenu/Yurek.jpg",
-        "fiyat": "1 Porsiyon 55 TL - 1.5 Porsiyon 80 TL"
+        "fiyat": "1 Porsiyon 60 TL - 1.5 Porsiyon 90 TL"
     },
     {
         "title": "Böbrek",
         "image": "./izgaramenu/Bobrek.jpg",
-        "fiyat": "1 Porsiyon 55 TL - 1.5 Porsiyon 80 TL"
+        "fiyat": "1 Porsiyon 60 TL - 1.5 Porsiyon 90 TL"
     },
     {
         "title": "Et Kuşbaşı",
         "image": "./izgaramenu/EtKusbasi.jpg",
-        "fiyat": "1 Porsiyon 75 TL - 1.5 Porsiyon 110 TL"
+        "fiyat": "1 Porsiyon 80 TL - 1.5 Porsiyon 120 TL"
     },
     {
         "title": "Saç Kavurma",
         "image": "./izgaramenu/SacKavurma.jpg",
-        "fiyat": "1 Porsiyon 80 TL - 1.5 Porsiyon 120 TL"
+        "fiyat": "1 Porsiyon 90 TL - 1.5 Porsiyon 135 TL"
     },
     {
         "title": "Et Biftek",
         "image": "./izgaramenu/Biftek.jpg",
-        "fiyat": "100 gr 80 TL"
+        "fiyat": "100 gr 90 TL"
     },
     {
         "title": "Tavuk Pirzola",
         "image": "./izgaramenu/TavukPirzola.jpg",
-        "fiyat": "1 Porsiyon 60 TL"
+        "fiyat": "1 Porsiyon 60 TL - 1.5 Porsiyon 90 TL"
     },
     {
         "title": "Karışık",
         "image": "./izgaramenu/Karısık.jpg",
-        "fiyat": "1 Porsiyon 55 TL - 1.5 Porsiyon 80 TL"
+        "fiyat": "1 Porsiyon 60 TL - 1.5 Porsiyon 90 TL"
     }
 ]
