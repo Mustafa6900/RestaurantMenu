@@ -10,6 +10,11 @@
         "fiyat" : "1 Porsiyon 60 TL - 1.5 Porsiyon 90 TL"
     },
     {
+        "title": "Mezgit",
+        "image": "./Balikmenu/mezgit.jpg",
+        "fiyat" : "1 Porsiyon 100 TL - 1.5 Porsiyon 150 Tl"
+    },
+    {
         "title": "Alabalık",
         "image": "./Balikmenu/Alabalik.jpg",
         "fiyat" : "3 Adet 150 TL"
@@ -17,12 +22,12 @@
     {
         "title": "Çinekop",
         "image": "./Balikmenu/Cinekop.jpg",
-        "fiyat" : "1 Porsiyon - TL - 1.5 Porsiyon - TL"
+        "fiyat" : "1 Porsiyon 150 TL"
     },
     {
         "title": "Palamut",
         "image": "./Balikmenu/Palamut.jpg",
-        "fiyat" : "1 Porsiyon - TL - 1.5 Porsiyon - TL"
+        "fiyat" : "1 Porsiyon 150 TL"
     },
     {
         "title": "Çupra",
