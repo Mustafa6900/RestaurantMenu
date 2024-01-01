@@ -12,17 +12,17 @@
     {
         "title": "Ciğer",
         "image": "./izgaramenu/Ciger.jpg",
-        "fiyat": "1 Porsiyon 70 TL - 1.5 Porsiyon 105 TL"
+        "fiyat": "1 Porsiyon 80 TL - 1.5 Porsiyon 120 TL"
     },
     {
         "title": "Yürek",
         "image": "./izgaramenu/Yurek.jpg",
-        "fiyat": "1 Porsiyon 70 TL - 1.5 Porsiyon 105 TL"
+        "fiyat": "1 Porsiyon 80 TL - 1.5 Porsiyon 120 TL"
     },
     {
         "title": "Böbrek",
         "image": "./izgaramenu/Bobrek.jpg",
-        "fiyat": "1 Porsiyon 70 TL - 1.5 Porsiyon 105 TL"
+        "fiyat": "1 Porsiyon 80 TL - 1.5 Porsiyon 120 TL"
     },
     {
         "title": "Et Kuşbaşı",
@@ -37,16 +37,16 @@
     {
         "title": "Et Biftek",
         "image": "./izgaramenu/Biftek.jpg",
-        "fiyat": "100 gr 100 TL"
+        "fiyat": "100 gr 110 TL"
     },
     {
         "title": "Tavuk Pirzola",
         "image": "./izgaramenu/TavukPirzola.jpg",
-        "fiyat": "1 Porsiyon 70 TL - 1.5 Porsiyon 105 TL"
+        "fiyat": "1 Porsiyon 80 TL - 1.5 Porsiyon 120 TL"
     },
     {
         "title": "Karışık",
         "image": "./izgaramenu/Karısık.jpg",
-        "fiyat": "1 Porsiyon 70 TL - 1.5 Porsiyon 105 TL"
+        "fiyat": "1 Porsiyon 80 TL - 1.5 Porsiyon 120 TL"
     }
 ]
