@@ -2,17 +2,17 @@
     {
         "title": "Hamsi",
         "image": "./Balikmenu/Hamsi.jpg",
-        "fiyat" : "1 Porsiyon 70 TL - 1.5 Porsiyon 105 TL"
+        "fiyat" : "1 Porsiyon 90 TL - 1.5 Porsiyon 135 TL"
     },
     {
         "title": "İstavrit",
         "image": "./Balikmenu/sstavrit.jpg",
-        "fiyat" : "1 Porsiyon 70 TL - 1.5 Porsiyon 105 TL"
+        "fiyat" : "1 Porsiyon 90 TL - 1.5 Porsiyon 135 TL"
     },
     {
         "title": "Mezgit",
         "image": "./Balikmenu/mezgit.jpg",
-        "fiyat" : "1 Porsiyon 120 TL - 1.5 Porsiyon 180 Tl"
+        "fiyat" : "1 Porsiyon 150 TL - 1.5 Porsiyon 225 Tl"
     },
     {
         "title": "Alabalık",
@@ -27,22 +27,22 @@
     {
         "title": "Palamut",
         "image": "./Balikmenu/Palamut.jpg",
-        "fiyat" : "1 Porsiyon 170 TL"
+        "fiyat" : "1 Porsiyon 200 TL"
     },
     {
         "title": "Çupra",
         "image": "./Balikmenu/Cupra.jpg",
-        "fiyat" : "1 Porsiyon 170 TL "
+        "fiyat" : "1 Porsiyon 200 TL "
     },
     {
         "title": "Levrek",
         "image": "./Balikmenu/Levrek.jpg",
-        "fiyat" : "1 Porsiyon 150 TL "
+        "fiyat" : "1 Porsiyon 200 TL "
     },
     
     {
         "title": "Somon",
         "image": "./Balikmenu/Somon.jpg",
-        "fiyat" : "1 Porsiyon 150 TL "
+        "fiyat" : "1 Porsiyon 200 TL "
     }
 ]
