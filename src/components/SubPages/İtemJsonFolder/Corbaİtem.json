@@ -2,42 +2,42 @@
     {
         "title": "Mercimek  ",
         "image": "./Corbamenu/Mercimek.jpg",
-        "fiyat": "1 Kase 30 TL - Büyük kase 40 TL"
+        "fiyat": "1 Kase 40 TL - Büyük kase 50 TL"
     },
     {
         "title": "Ezogelin  ",
         "image": "./Corbamenu/Ezogelin.jpg",
-        "fiyat": "1 Kase 30 TL - Büyük kase 40 TL"
+        "fiyat": "1 Kase 40 TL - Büyük kase 50 TL"
     },
     {
         "title": "Kelle Paça  ",
         "image": "./Corbamenu/KellePaca.jpg"
-        ,"fiyat": "1 Kase 75  TL - Büyük kase 90 TL"
+        ,"fiyat": "1 Kase 100  TL - Büyük kase 130 TL"
     },
     {
         "title": "Doduk Paça  ",
         "image": "./Corbamenu/DodukPaca.jpg",
-        "fiyat": "1 Kase 60 TL - Büyük kase 70 TL"
+        "fiyat": "1 Kase 75 TL - Büyük kase 100 TL"
         
     },
     {
         "title": "Karışık Paça  ",
         "image": "./Corbamenu/KarisikPaca.jpg",
-        "fiyat": "1 Kase 70 TL - Büyük kase 80 TL"
+        "fiyat": "1 Kase 90 TL - Büyük kase 120 TL"
     },
     {
         "title": "İşkembe  ",
         "image": "./Corbamenu/sskembe.jpg",
-        "fiyat": "1 Kase 60 TL - Büyük kase 70 TL"
+        "fiyat": "1 Kase 75 TL - Büyük kase 100 TL"
     },
     {
         "title": "Sebzeli  ",
         "image": "./Corbamenu/Sebzeli.jpg",
-        "fiyat": "1 Kase 35 TL - Büyük kase 45 TL"
+        "fiyat": "1 Kase 50 TL - Büyük kase 70 TL"
     },
     {
         "title": "TavukSuyu  ",
         "image": "./Corbamenu/TavukSuyu.jpg",
-        "fiyat": "1 Kase 35 TL - Büyük kase 45 TL"
+        "fiyat": "1 Kase 50 TL - Büyük kase 70 TL"
     }
 ]
