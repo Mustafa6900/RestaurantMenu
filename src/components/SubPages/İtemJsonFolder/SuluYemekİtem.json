@@ -12,7 +12,7 @@
     {
         "title": "Et Haşlama",
         "image": "./SuluYemekmenu/EtHaslama.jpg",
-        "fiyat": "1 Porsiyon 150 TL"
+        "fiyat": "1 Porsiyon 180 TL"
     },
     {
         "title": "Et Kavurma",
@@ -22,11 +22,11 @@
     {
         "title": "Pirinç Pilavı",
         "image": "./SuluYemekmenu/PirincPilavi.jpg",
-        "fiyat": "1 Porsiyon 40 TL"
+        "fiyat": "1 Porsiyon 50 TL"
     },
     {
         "title": "Bulgur Pilavı",
         "image": "./SuluYemekmenu/BulgurPilavi.jpg",
-        "fiyat": "1 Porsiyon 40 TL"
+        "fiyat": "1 Porsiyon 50 TL"
     }
 ]
