@@ -27,7 +27,7 @@
     {
         "title": "Ayran",
         "image": "./ccecekmenu/Ayran.jpg",
-        "fiyat": "200 ml 15 TL"
+        "fiyat": "200 ml 10 TL"
     },
     {
         "title": "Şalgam",
@@ -38,7 +38,7 @@
     {
         "title": "Maden Suyu",
         "image": "./ccecekmenu/Soda.jpg",
-        "fiyat": "200 ml 15 TL"
+        "fiyat": "200 ml 10 TL"
     },
     {
         "title": "Su",
